@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/projeto-router/static/css/main.182df5a2.css",
+    "main.js": "/projeto-router/static/js/main.5bf7a92a.js",
+    "static/js/787.25868891.chunk.js": "/projeto-router/static/js/787.25868891.chunk.js",
+    "static/media/contato.jpg": "/projeto-router/static/media/contato.1bd9bf2dc50673043059.jpg",
+    "index.html": "/projeto-router/index.html",
+    "main.182df5a2.css.map": "/projeto-router/static/css/main.182df5a2.css.map",
+    "main.5bf7a92a.js.map": "/projeto-router/static/js/main.5bf7a92a.js.map",
+    "787.25868891.chunk.js.map": "/projeto-router/static/js/787.25868891.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.182df5a2.css",
+    "static/js/main.5bf7a92a.js"
+  ]
+}
