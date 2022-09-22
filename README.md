@@ -1,16 +1,16 @@
-##Descrição do projeto:
+<h1>Descrição do projeto:</h1>
 O projeto consiste em clicar na Aba produtos e fazer o carregamento dos produtos pegues de uma Api externa que ultilizei do curso Origamid-React
 -...Ao clicar nos produtos irá carregar duas fotos dos produtos, valor e descrição do produto, tudo isso vindo da Api.. 
 -É possivel ir na aba contanto onde ficará minhas informações de contato, como email, linkedin e telefone... 
 
 
-##O que foi ultilizado?
+<h1>O que foi ultilizado?</h1>
 -Utilizei o App React para construir a aplicação ReactJs
 -Foi ultilizado o router-dom do react para ultilização de rotas dentro das paginas, para que n ocorrece carregamento de uma nova aba sempre que necessário
 -Utilizei a ideia de componentização que é dividir o projeto em varios componentes para facilitar na ultilização e revisão dos códigos
 -Conhecimentos em Css e Html
 
-##Informações de contato:
+<h1>Informações de contato:</h1>
  
  Linkedin: https://www.linkedin.com/in/gustavo-oliveira-197081227/
 
